@@ -18,8 +18,7 @@
 
 
 ## 🎯 About The Project
-
-Sidcup Family Golf website is a sleek, modern web application showcasing a multipurpose golf facility located in Sidcup, South East London. The website features smooth animations, responsive design, and an engaging user interface that reflects the facility's commitment to technology and making golf accessible to everyone.
+Golf Web is a professional, fully responsive website designed for a modern golf facility. This project demonstrates my expertise in front-end web development, featuring smooth animations, elegant design, and seamless user experience. Built with pure HTML, CSS, and JavaScript, it showcases my ability to create visually stunning and highly interactive web applications.
 
 
 ## ✨ Features
@@ -44,7 +43,6 @@ Sidcup Family Golf website is a sleek, modern web application showcasing a multi
 ### Deployment
 - **Vercel** - Fast and reliable hosting
 
----
 
 ## 🚀 Getting Started
 
