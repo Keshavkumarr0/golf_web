@@ -10,7 +10,7 @@
 
 ### 🌐 [Live Demo](https://golf-web-sable.vercel.app/)
 
-*A modern, interactive website for Sidcup Family Golf - London's premier multipurpose golf facility*
+
 
 </div>
 
