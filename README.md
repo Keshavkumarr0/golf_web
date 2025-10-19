@@ -87,7 +87,7 @@ This project is deployed on Vercel for optimal performance and reliability.
 3. Import your forked repository
 4. Deploy with one click!
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/sidcup-golf-website)
+
 
 ---
 
