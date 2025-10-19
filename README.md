@@ -1,4 +1,4 @@
-# ⛳ Sidcup Family Golf - Official Website
+# ⛳  Golf-Website
 
 <div align="center">
 
@@ -14,48 +14,23 @@
 
 </div>
 
----
 
-## 📋 Table of Contents
 
-- [About The Project](#about-the-project)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## 🎯 About The Project
 
 Sidcup Family Golf website is a sleek, modern web application showcasing a multipurpose golf facility located in Sidcup, South East London. The website features smooth animations, responsive design, and an engaging user interface that reflects the facility's commitment to technology and making golf accessible to everyone.
 
-### 🏌️ Facility Highlights:
-- **46-bay multi-tier driving range** with Toptracer Range technology
-- **Professional golf lessons** for all skill levels
-- **Dinosaur-themed adventure golf** courses
-- **On-site coffee shop** and American Golf Store
-- **Practice facilities** including greens and bunkers
-
----
 
 ## ✨ Features
 
 - 🎨 **Modern UI/UX Design** - Clean, professional interface with smooth transitions
-- 📱 **Fully Responsive** - Optimized for all devices (desktop, tablet, mobile)
 - 🎭 **Smooth Animations** - Engaging scroll-based animations and effects
-- ⚡ **Fast Loading** - Optimized performance for quick page loads
 - 🎯 **Interactive Elements** - Dynamic content and hover effects
 - 🔄 **Smooth Scrolling** - Enhanced user navigation experience
-- 📧 **Newsletter Signup** - Integrated email subscription form
 - 💬 **Customer Testimonials** - Real feedback showcase
 - 🖼️ **Image Gallery** - High-quality facility images
-- 📍 **Location Integration** - Easy-to-find facility information
+
 
 ---
 
@@ -65,11 +40,6 @@ Sidcup Family Golf website is a sleek, modern web application showcasing a multi
 - **HTML5** - Semantic markup structure
 - **CSS3** - Modern styling with Flexbox/Grid
 - **JavaScript (ES6+)** - Interactive functionality
-
-### Libraries & Frameworks
-- **GSAP (GreenSock)** - Professional-grade animations
-- **ScrollTrigger** - Scroll-based animations
-- **Locomotive Scroll** - Smooth scrolling effects
 
 ### Deployment
 - **Vercel** - Fast and reliable hosting
@@ -90,12 +60,12 @@ Follow these steps to get a local copy up and running:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/sidcup-golf-website.git
+   git clone https://github.com/keshavkumarr0/golf_web.git
    ```
 
 2. **Navigate to project directory**
    ```bash
-   cd sidcup-golf-website
+   cd golf_web
    ```
 
 3. **Open with Live Server**
@@ -105,39 +75,6 @@ Follow these steps to get a local copy up and running:
 4. **Start Developing**
    - Edit files in your preferred code editor
    - Changes will reflect in real-time
-
----
-
-## 📁 Project Structure
-
-```
-sidcup-golf-website/
-│
-├── index.html              # Main HTML file
-├── style.css               # Main stylesheet
-├── script.js               # JavaScript functionality
-│
-├── assets/
-│   ├── images/            # Image assets
-│   ├── icons/             # Icon files
-│   └── fonts/             # Custom fonts
-│
-├── README.md              # Project documentation
-└── LICENSE                # License information
-```
-
----
-
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/800x400?text=Desktop+View)
-
-### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/400x800?text=Mobile+View)
-
-### Features Section
-![Features](https://via.placeholder.com/800x400?text=Features+Section)
 
 ---
 
@@ -160,34 +97,7 @@ This project is deployed on Vercel for optimal performance and reliability.
 
 ### 1. **Hero Section**
    - Eye-catching headline: "EAT. DRINK. PLAY."
-   - Clear call-to-action
-   - Engaging background imagery
 
-### 2. **Services**
-   - Toptracer Range
-   - Golf Lessons
-   - Adventure Golf
-   - Coffee Shop
-   - Leagues
-
-### 3. **About Us**
-   - Facility overview
-   - Technology highlights
-   - Mission statement
-
-### 4. **Gallery**
-   - High-quality facility images
-   - Interactive image displays
-
-### 5. **Testimonials**
-   - Customer reviews
-   - Real feedback showcase
-
-### 6. **Newsletter**
-   - Email subscription form
-   - Special offers signup
-
----
 
 ## 🤝 Contributing
 
@@ -199,53 +109,18 @@ Contributions are what make the open-source community amazing! Any contributions
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
 
-## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
----
+ 🌐 Website: [https://golf-web-sable.vercel.app/](https://golf-web-sable.vercel.app/)
 
-## 📧 Contact
 
-**Sidcup Family Golf**
 
-- 🌐 Website: [https://golf-web-sable.vercel.app/](https://golf-web-sable.vercel.app/)
-- 📍 Location: Sidcup, South East London
-- 📧 Email: info@sidcupfamilygolf.com
 
-**Project Developer**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 
----
-
-## 🙏 Acknowledgments
-
-- [GSAP](https://greensock.com/gsap/) - Animation library
-- [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) - Smooth scrolling
-- [Vercel](https://vercel.com) - Hosting platform
-- [Font Awesome](https://fontawesome.com) - Icons
-- [Google Fonts](https://fonts.google.com) - Typography
-
----
-
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/sidcup-golf-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/sidcup-golf-website?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/sidcup-golf-website?style=social)
-
----
-
-<div align="center">
 
 ### Made with ❤️ for Golf Enthusiasts
 
-**⭐ Star this repo if you find it helpful!**
 
-[Report Bug](https://github.com/yourusername/sidcup-golf-website/issues) · [Request Feature](https://github.com/yourusername/sidcup-golf-website/issues)
 
-</div>
